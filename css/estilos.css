@@ -8,7 +8,11 @@ body {
 }
 
 #cabecera {
+<<<<<<< HEAD
     background: blue;
+=======
+    background: red;
+>>>>>>> cabecera
     color: white;
     font-weight: bold;
     margin: 0;
